@@ -15,7 +15,9 @@ The Creative Marketing Assistance App is a tool designed to streamline the proce
 
 - User-Friendly Interface: The app provides an intuitive and user-friendly interface that allows you to generate marketing content quickly and efficiently.
 
+- Additional User Prompt: User can add their own prompt.
 
+- Select content Length: User can select a length of generated message and email.
 
 
 
