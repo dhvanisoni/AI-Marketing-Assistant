@@ -278,7 +278,7 @@ def main():
         email_ready()  # Call the email_ready function here
 
         if user_prompt:
-            email_advertisement = generate_email_advertisement(user_prompt, language, selected_tone,user_prompt, start_num, end_num)
+            email_advertisement = generate_email_advertisement(user_prompt, language, selected_tone,program_description, start_num, end_num)
             processed_email = post_process_email(email_advertisement, language, selected_tone, user_prompt, start_num, end_num)
         else:
             email_advertisement = generate_email_advertisement(program_description, language, selected_tone,user_prompt, start_num, end_num)
