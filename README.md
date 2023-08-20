@@ -17,7 +17,7 @@ The Creative Marketing Assistance App is a tool designed to streamline the proce
 
 - Additional User Prompt: User can add their own prompt.
 
-- Select content Length: User can select a length of generated message and email.
+- Select Content Length: User can select a length of generated message and email.
 
 
 
