@@ -38,7 +38,7 @@ To get started with the Creative Marketing Assistance App, follow these steps:
 1. Clone the Repository: Open your terminal and navigate to the directory where you want to clone the project. Then, run the following command to clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/creative-marketing-assistance-app.git
+  git clone https://github.com/dhvanisoni/AI-marketing-assistant-.git
 cd creative-marketing-assistance-app
 ```
 2. Install Dependencies: Ensure you have Python and pip installed. Create a virtual environment (optional but recommended) and activate it. Then, install the required dependencies using the provided requirements.txt file:
