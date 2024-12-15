@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 
 ## 🚀 About Us
-We are a dedicated group of students from Humber college, driven by a passion for innovative marketing solutions. Our project focuses on simplifying college program promotions through the creation of compelling SMS and email advertisements. By combining our diverse skills, we aim to bridge the communication gap between colleges and prospective students, enabling more effective engagement and outreach.
+We are a dedicated group of 5 students from Humber college, driven by a passion for innovative marketing solutions. Our project focuses on simplifying college program promotions through the creation of compelling SMS and email advertisements. By combining our diverse skills, we aim to bridge the communication gap between colleges and prospective students, enabling more effective engagement and outreach.
 
 
 ## Feedback
