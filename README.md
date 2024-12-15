@@ -1,7 +1,7 @@
 
 # Bilingual Hawk - Marketing Assistance for Humber College
 
-The Creative Marketing Assistance App is a tool designed to streamline the process of generating SMS and email advertisements for program promotion at Humber College. With this app, you can create compelling and engaging marketing content that resonates with your target audience, helping you attract and engage prospective students effectively.
+The Marketing Assistance App is a tool designed to streamline the process of generating SMS and email advertisements for program promotion at Humber College. With this app, you can create compelling and engaging marketing content that resonates with your target audience, helping you attract and engage prospective students effectively.
 
 
 
